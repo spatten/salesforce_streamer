@@ -114,6 +114,3 @@ DEPENDENCIES
   rubocop-performance
   rubocop-rspec
   salesforce_streamer!
-
-BUNDLED WITH
-   2.1.4
